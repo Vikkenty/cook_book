@@ -28,6 +28,6 @@ def get_shop_list_by_dishes(dishes, person_count):
     return shop_list
 
 dishes = ['Омлет', 'Суп']
-person_count = 1
+person_count = 3
 get_shop_list_by_dishes(dishes, person_count)
 
